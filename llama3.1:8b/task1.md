@@ -24,18 +24,11 @@ sein eigenes Nummernsystem hat. Dies führt dazu, dass eine Telefonnummer
 nicht automatisch auf einem anderen Gerät mit der gleichen Netzbetreiber 
 verwendet werden kann.
 
-total duration:       41.434930917s
-
-load duration:        108.911375ms
-
-prompt eval count:    58 token(s)
-
-prompt eval duration: 573.882125ms
-
-prompt eval rate:     101.07 tokens/s
-
-eval count:           288 token(s)
-
-eval duration:        40.608346286s
-
+total duration:       41.434930917s\
+load duration:        108.911375ms\
+prompt eval count:    58 token(s)\
+prompt eval duration: 573.882125ms\
+prompt eval rate:     101.07 tokens/s\
+eval count:           288 token(s)\
+eval duration:        40.608346286s\
 eval rate:            7.09 tokens/s
