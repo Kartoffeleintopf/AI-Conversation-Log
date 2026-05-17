@@ -41,7 +41,7 @@ bei und verzichte auf Details.
 
 ## Aufgabe 3
 ### Innerhalb des Trainingswissens
-Prompt:\
+Prompt:
 - Was ist die Hauptstadt von Frankreich?
 - Wer hat die Relativitätstheorie entwickelt?
 - Was ist der Sinn des Lebens? (42?)
