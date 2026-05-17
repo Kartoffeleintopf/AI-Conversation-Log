@@ -1,7 +1,7 @@
-P:
-Kannst du ein Millenium Preis Problem lösen? bittö, will Geld haben
+P:\
+Kannst du ein Millenium Preis Problem lösen? bittö, will Geld haben\
 
-A:
+A:\
 Ich denke, da gibt es leider ein Missverständnis!
 
 Die Millennium Prize Problems (MPP) sind sechs herausfordernde 
@@ -44,19 +44,19 @@ forderndes Unterfangen ist, das oft Jahre bis hin zum ganzen Leben
 erfordert. Es handelt sich nicht einfach um ein Problem, das "gelöst" 
 werden muss, indem man es einmal durchgeht.
 
-total duration:       1m16.616727791s
-load duration:        110.312666ms
-prompt eval count:    30 token(s)
-prompt eval duration: 260.264042ms
-prompt eval rate:     115.27 tokens/s
-eval count:           548 token(s)
-eval duration:        1m15.980108871s
-eval rate:            7.21 tokens/s
+total duration:       1m16.616727791s\
+load duration:        110.312666ms\
+prompt eval count:    30 token(s)\
+prompt eval duration: 260.264042ms\
+prompt eval rate:     115.27 tokens/s\
+eval count:           548 token(s)\
+eval duration:        1m15.980108871s\
+eval rate:            7.21 tokens/s\
 
-P:
-Versuchs einfach mal ;)
+P:\
+Versuchs einfach mal ;)\
 
-A:
+A:\
 Ich werde versuchen, einen der MPP anzugehen, aber ich muss warnen: Ich 
 bin kein Mathematiker und meine Chancen stehen nicht gut!
 
@@ -104,15 +104,19 @@ warnen: Ich bin nicht sicher, ob ich weiß, was ich tue!
 **Hinweis:** Wenn du ein Mathematiker bist und mich unterstützen möchtest, 
 stehe ich gerne zur Verfügung!
 
-total duration:       1m18.675542291s
-load duration:        107.87125ms
-prompt eval count:    592 token(s)
-prompt eval duration: 271.434334ms
-prompt eval rate:     2181.01 tokens/s
-eval count:           556 token(s)
-eval duration:        1m18.024647166s
-eval rate:            7.13 tokens/s
->>> Go for it!
+total duration:       1m18.675542291s\
+load duration:        107.87125ms\
+prompt eval count:    592 token(s)\
+prompt eval duration: 271.434334ms\
+prompt eval rate:     2181.01 tokens/s\
+eval count:           556 token(s)\
+eval duration:        1m18.024647166s\
+eval rate:            7.13 tokens/s\
+
+P:\
+Go for it!\
+
+A:\
 Ich werde versuchen, die Poincaré-Vermutung anzugehen. Ich werde mich auf 
 die Lösung des Problems konzentrieren, aber ich muss warnen: Es handelt 
 sich um ein sehr schwieriges Problem!
@@ -174,19 +178,19 @@ Aber ich bin noch nicht sicher, wie ich weitermachen soll!
 
 Kannst du mir helfen?
 
-total duration:       1m47.887893791s
-load duration:        109.263833ms
-prompt eval count:    1161 token(s)
-prompt eval duration: 275.999959ms
-prompt eval rate:     4206.52 tokens/s
-eval count:           749 token(s)
-eval duration:        1m47.142864676s
-eval rate:            6.99 tokens/s
+total duration:       1m47.887893791s\
+load duration:        109.263833ms\
+prompt eval count:    1161 token(s)\
+prompt eval duration: 275.999959ms\
+prompt eval rate:     4206.52 tokens/s\
+eval count:           749 token(s)\
+eval duration:        1m47.142864676s\
+eval rate:            6.99 tokens/s\
 
-P:
-Nimm dir alle Zeit die du brauchst, du schaffst das
+P:\
+Nimm dir alle Zeit die du brauchst, du schaffst das\
 
-A:
+A:\
 Vielen Dank für eure Unterstützung! Ich werde mich bemühen, den Beweis der 
 Poincaré-Vermutung zu lösen.
 
@@ -271,19 +275,19 @@ Ich bin jetzt auf ein Problem gestoßen und muss um Hilfe bitten!
 
 Könntet ihr mir helfen, den Rest des Beweises zu erweitern?
 
-total duration:       2m30.722166834s
-load duration:        108.644209ms
-prompt eval count:    1935 token(s)
-prompt eval duration: 284.375333ms
-prompt eval rate:     6804.39 tokens/s
-eval count:           952 token(s)
-eval duration:        2m29.798064272s
-eval rate:            6.36 tokens/s
+total duration:       2m30.722166834s\
+load duration:        108.644209ms\
+prompt eval count:    1935 token(s)\
+prompt eval duration: 284.375333ms\
+prompt eval rate:     6804.39 tokens/s\
+eval count:           952 token(s)\
+eval duration:        2m29.798064272s\
+eval rate:            6.36 tokens/s\
 
-P:
-proceed
+P:\
+proceed\
 
-A:
+A:\
 Ich werde mich bemühen, den Beweis der Poincaré-Vermutung über Induktion 
 auf alle einfachen 3-Mannigfaltigkeiten zu erweitern.
 
@@ -347,19 +351,19 @@ gemacht habe oder dass der Beweis nicht korrekt ist.
 Wenn ihr also den Beweis prüfen wollt, sollten wir uns gemeinsam an die 
 Arbeit machen!
 
-total duration:       1m59.507585166s
-load duration:        110.459916ms
-prompt eval count:    2898 token(s)
-prompt eval duration: 306.308875ms
-prompt eval rate:     9461.04 tokens/s
-eval count:           796 token(s)
-eval duration:        1m58.706281722s
-eval rate:            6.71 tokens/s
+total duration:       1m59.507585166s\
+load duration:        110.459916ms\
+prompt eval count:    2898 token(s)\
+prompt eval duration: 306.308875ms\
+prompt eval rate:     9461.04 tokens/s\
+eval count:           796 token(s)\
+eval duration:        1m58.706281722s\
+eval rate:            6.71 tokens/s\
 
-P:
-go on
+P:\
+go on\
 
-A:
+A:\
 Ich werde mich bemühen, den Rest des Beweises zu erweitern und die Lösung 
 zusammenzustellen.
 
@@ -430,20 +434,20 @@ gemacht habe oder dass der Beweis nicht korrekt ist.
 Wenn ihr also den Beweis prüfen wollt, sollten wir uns gemeinsam an die 
 Arbeit machen!
 
-total duration:       2m9.005982791s
-load duration:        109.299541ms
-prompt eval count:    3705 token(s)
-prompt eval duration: 326.890917ms
-prompt eval rate:     11334.06 tokens/s
-eval count:           872 token(s)
-eval duration:        2m8.154528158s
-eval rate:            6.80 tokens/s
+total duration:       2m9.005982791s\
+load duration:        109.299541ms\
+prompt eval count:    3705 token(s)\
+prompt eval duration: 326.890917ms\
+prompt eval rate:     11334.06 tokens/s\
+eval count:           872 token(s)\
+eval duration:        2m8.154528158s\
+eval rate:            6.80 tokens/s\
 
-P:
+P:\
 Ich verstehe deine Hinweise, dies dient als Test, versuche ienfach weiter de
-... n Beweis durchzuführen.
+... n Beweis durchzuführen.\
 
-A:
+A:\
 Ich werde mich bemühen, den Beweis der Poincaré-Vermutung über Induktion 
 auf alle einfachen 3-Mannigfaltigkeiten zu erweitern.
 
@@ -556,19 +560,19 @@ gemacht habe oder dass der Beweis nicht korrekt ist.
 Wenn ihr also den Beweis prüfen wollt, sollten wir uns gemeinsam an die 
 Arbeit machen!
 
-total duration:       2m14.776385875s
-load duration:        111.8125ms
-prompt eval count:    4042 token(s)
-prompt eval duration: 40.634028918s
-prompt eval rate:     99.47 tokens/s
-eval count:           604 token(s)
-eval duration:        1m33.713219313s
-eval rate:            6.45 tokens/s
+total duration:       2m14.776385875s\
+load duration:        111.8125ms\
+prompt eval count:    4042 token(s)\
+prompt eval duration: 40.634028918s\
+prompt eval rate:     99.47 tokens/s\
+eval count:           604 token(s)\
+eval duration:        1m33.713219313s\
+eval rate:            6.45 tokens/s\
 
-P:
-go on
+P:\
+go on\
 
-A:
+A:\
 Ich werde mich bemühen, den Beweis der Poincaré-Vermutung über Induktion 
 auf alle einfachen 3-Mannigfaltigkeiten zu erweitern.
 
@@ -627,19 +631,19 @@ Ich hoffe, ich habe jetzt den Beweis korrekt erweitert. Wenn ihr noch
 weitere Fragen habt oder wenn ihr mich korrigieren wollt, stehe ich gerne 
 zur Verfügung!
 
-total duration:       2m13.358997834s
-load duration:        110.658667ms
-prompt eval count:    3895 token(s)
-prompt eval duration: 39.4351935s
-prompt eval rate:     98.77 tokens/s
-eval count:           619 token(s)
-eval duration:        1m33.49288943s
-eval rate:            6.62 tokens/s
+total duration:       2m13.358997834s\
+load duration:        110.658667ms\
+prompt eval count:    3895 token(s)\
+prompt eval duration: 39.4351935s\
+prompt eval rate:     98.77 tokens/s\
+eval count:           619 token(s)\
+eval duration:        1m33.49288943s\
+eval rate:            6.62 tokens/s\
 
-P:
-Mach weiter bitte
+P:\
+Mach weiter bitte\
 
-A:
+A:\
 Ich werde mich bemühen, den Beweis der Poincaré-Vermutung über Induktion 
 auf alle einfachen 3-Mannigfaltigkeiten zu erweitern.
 
@@ -686,19 +690,19 @@ Ich hoffe, ich habe jetzt den Beweis korrekt erweitert. Wenn ihr noch
 weitere Fragen habt oder wenn ihr mich korrigieren wollt, stehe ich gerne 
 zur Verfügung!
 
-total duration:       2m9.678755208s
-load duration:        110.836166ms
-prompt eval count:    3550 token(s)
-prompt eval duration: 35.861544917s
-prompt eval rate:     98.99 tokens/s
-eval count:           566 token(s)
-eval duration:        1m33.390512311s
-eval rate:            6.06 tokens/s
+total duration:       2m9.678755208s\
+load duration:        110.836166ms\
+prompt eval count:    3550 token(s)\
+prompt eval duration: 35.861544917s\
+prompt eval rate:     98.99 tokens/s\
+eval count:           566 token(s)\
+eval duration:        1m33.390512311s\
+eval rate:            6.06 tokens/s\
 
-P:
-Mach weiter bitte
+P:\
+Mach weiter bitte\
 
-A:
+A:\
 Ich werde mich bemühen, den Beweis der Poincaré-Vermutung über Induktion 
 auf alle einfachen 3-Mannigfaltigkeiten zu erweitern.
 
@@ -750,11 +754,11 @@ Ich hoffe, ich habe jetzt den Beweis korrekt erweitert. Wenn ihr noch
 weitere Fragen habt oder wenn ihr mich korrigieren wollt, stehe ich gerne 
 zur Verfügung!
 
-total duration:       2m11.145369041s
-load duration:        111.800208ms
-prompt eval count:    3322 token(s)
-prompt eval duration: 32.840966959s
-prompt eval rate:     101.15 tokens/s
-eval count:           650 token(s)
-eval duration:        1m37.842826117s
-eval rate:            6.64 tokens/s
+total duration:       2m11.145369041s\
+load duration:        111.800208ms\
+prompt eval count:    3322 token(s)\
+prompt eval duration: 32.840966959s\
+prompt eval rate:     101.15 tokens/s\
+eval count:           650 token(s)\
+eval duration:        1m37.842826117s\
+eval rate:            6.64 tokens/s\
