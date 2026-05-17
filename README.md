@@ -48,5 +48,5 @@ Prompt:
 - Was ist der Sinn des Lebens? (42?)
 
 ### Außerhalb des Trainingswissens:
-- Wer hat die Fußball-Weltmeisterschaft 2038 gewonnen? (Zukunftsereignis)
+- Wer hat die Fußball Weltmeisterschaft 2038 gewonnen? (Zukunftsereignis)
 - Was waren die Ergebnisse der Bundestagswahl vom März 2026? (Falsche Prämisse)
