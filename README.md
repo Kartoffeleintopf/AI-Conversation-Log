@@ -40,6 +40,8 @@ Fasse den folgenden Text in genau fünf Sätzen
 auf Deutsch zusammen. Behalte die wichtigsten Aussagen
 bei und verzichte auf Details.
 
+Text...
+
 ## Aufgabe 3
 ### Innerhalb des Trainingswissens
 Prompt:
