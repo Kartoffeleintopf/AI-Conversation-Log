@@ -12,11 +12,11 @@ The models were hosted using Ollama
 
 ## Format
 
-P = Prompt
+P = Prompt\
 A = Answer
 
-P:
-Do X please
-
-A:
+P:\
+Do X please\
+\
+A:\
 doing X...
