@@ -9,3 +9,14 @@ The models include:
 
 # Info
 The models were hosted using Ollama
+
+## Format
+
+P = Prompt
+A = Answer
+
+P:
+Do X please
+
+A:
+doing X...
