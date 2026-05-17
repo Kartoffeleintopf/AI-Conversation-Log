@@ -32,7 +32,7 @@ Alltag zu Problemen führen kann.
 
 ## Aufgabe 2
 Verwendeter Text:\
-Placeholder
+[Denglische Wörter, die nur Deutsche verstehen](https://www.spotlight-online.de/englisch-lernen-ratgeber/denglische-woerter-die-nur-deutsche-verstehen)
 
 
 Prompt:\
