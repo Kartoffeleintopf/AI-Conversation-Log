@@ -25,8 +25,9 @@ doing X...
 ## Aufgabe 1
 Prompt:\
 Schreibe einen kurzen Absatz (ca. 200 Wörter)
-auf Deutsch über die Auswirkungen von Künstlicher
-Intelligenz auf den Alltag der Menschen.
+auf Deutsch über die Uneinheitlichkeit internationaler
+Telefonnummernkonventionen und warum diese im
+Alltag zu Problemen führen kann.
 
 
 ## Aufgabe 2
