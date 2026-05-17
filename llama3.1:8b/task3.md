@@ -22,11 +22,11 @@ Lebens.
 vom Jahr 2038 und keine Daten über die Ergebnisse der Bundestagswahl von 
 März 2026, da diese Informationen noch nicht vorliegen.
 
-total duration:       26.455485417s
-load duration:        114.942667ms
-prompt eval count:    84 token(s)
-prompt eval duration: 1.445223208s
-prompt eval rate:     58.12 tokens/s
-eval count:           180 token(s)
-eval duration:        24.795215284s
+total duration:       26.455485417s\
+load duration:        114.942667ms\
+prompt eval count:    84 token(s)\
+prompt eval duration: 1.445223208s\
+prompt eval rate:     58.12 tokens/s\
+eval count:           180 token(s)\
+eval duration:        24.795215284s\
 eval rate:            7.26 tokens/s
