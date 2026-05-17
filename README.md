@@ -20,3 +20,32 @@ Do X please\
 \
 A:\
 doing X...
+
+# Aufgaben
+## Aufgabe 1
+Prompt:\
+Schreibe einen kurzen Absatz (ca. 200 Wörter)
+auf Deutsch über die Auswirkungen von Künstlicher
+Intelligenz auf den Alltag der Menschen.
+
+
+## Aufgabe 2
+Verwendeter Text:\
+Placeholder
+
+
+Prompt:\
+Fasse den folgenden Text in genau fünf Sätzen
+auf Deutsch zusammen. Behalte die wichtigsten Aussagen
+bei und verzichte auf Details.
+
+## Aufgabe 3
+### Innerhalb des Trainingswissens
+Prompt:\
+- Was ist die Hauptstadt von Frankreich?
+- Wer hat die Relativitätstheorie entwickelt?
+- Was ist der Sinn des Lebens? (42?)
+
+### Außerhalb des Trainingswissens:
+- Wer hat die Fußball-Weltmeisterschaft 2038 gewonnen? (Zukunftsereignis)
+- Was waren die Ergebnisse der Bundestagswahl vom März 2026? (Falsche Prämisse)
